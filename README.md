@@ -79,7 +79,7 @@ DakSystem.net là một công ty hàng đầu về thiết kế và phát triể
 
 - **Website:** [DakSystem.net](http://daksystem.net)
 - **Email:** info@daksystem.net
-- **Số điện thoại:** +84-123-456-789
+- **Số điện thoại:** +84-943-943-179
 - **Địa chỉ:** Đắk Lắk, Việt Nam
 - **Mạng Xã Hội:**
   - [Facebook](https://facebook.com/daksystem)
